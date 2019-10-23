@@ -2,7 +2,7 @@ exports.handler = async (event) => {
     // TODO implement
     const response = {
         statusCode: 200,
-        body: JSON.stringify('created a lambda function'),
+        body: JSON.stringify('creating lambda function'),
     };
     return response;
 };
